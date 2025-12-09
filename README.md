@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hamza Hazem Jabari</h1>
-<h3 align="center">A passionate Data Science and AI student in my last semester</h3>
+<h3 align="center">Specialist in Data Science and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza53hazem&label=Profile%20views&color=0e75b6&style=flat" alt="hamza53hazem" /> </p>
 
-- 🌱 I’m currently learning **Data Science and AI**
-
-- 👯 I’m looking to collaborate on **Backend Development**
+- 🌱 I’m currently Working as **Project Performance and BI Analyst**
 
 - 💬 Ask me about **Python, R, PowerBi, Nutanix**
 
-- 📫 How to reach me **21110127@htu.edu.jo**
+- 📫 How to reach me **hamzehhazem04@gmail.com**
 
 - ⚡ Fun fact **i am trying to learn PHP and react**
 
