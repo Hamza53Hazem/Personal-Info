@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Hazem Jabari</h1>
 <h3 align="center">Specialist in Data Science and AI</h3>
 
+<p align="center">
+  <a href="https://github.com/hamza53hazem/hamza53hazem/tree/Projects">
+    <img src="https://img.shields.io/badge/📂_View_My_Projects-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza53hazem&label=Profile%20views&color=0e75b6&style=flat" alt="hamza53hazem" /> </p>
 
 - 🌱 I’m currently Working as **Project Performance and BI Analyst**
